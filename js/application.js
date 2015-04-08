@@ -1,4 +1,5 @@
 $(document).ready(function(){
+<<<<<<< HEAD
 	var newDate;
 	var tonsPurchased;
 	var newData = [];
@@ -100,3 +101,7 @@ $(document).ready(function(){
 // 	}
 
 // })
+=======
+
+});
+>>>>>>> 0e111e43839b6b7fa9492f5301e2b385287a09d9
